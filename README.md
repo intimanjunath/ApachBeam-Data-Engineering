@@ -32,6 +32,31 @@ Install the necessary Python packages:
    !cp kaggle.json ~/.kaggle/
    !chmod 600 ~/.kaggle/kaggle.json
   ```
+## Project Files
+
+- **`world_happiness_eda.ipynb`**: The Jupyter notebook containing the full EDA and D3.js visualizations.
+- **`kaggle.json`**: Kaggle API token for accessing the dataset (ensure it’s kept private).
+- **`data/world-happiness/2019.csv`**: The cleaned dataset used for the analysis.
+- **`README.md`**: This file.
+
+---
+
+## About the Dataset
+
+The **World Happiness Report** ranks 156 countries by how happy their citizens perceive themselves to be. The ranking is based on six key factors that contribute to well-being:
+
+- **GDP per Capita**
+- **Social Support**
+- **Healthy Life Expectancy**
+- **Freedom to Make Life Choices**
+- **Generosity**
+- **Perceptions of Corruption**
+
+---
+
+## Conclusion
+
+This project demonstrates how advanced **D3.js** visualizations can enhance the exploratory data analysis process, providing interactive and visually appealing insights into the happiness levels of countries worldwide. It bridges the gap between traditional static plots and modern, dynamic data visualization techniques.
 
 
 ## Assignment 2: NYC Airbnb Open Data - Auto EDA with Sweetviz
