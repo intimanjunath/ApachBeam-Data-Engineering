@@ -51,6 +51,15 @@ The **World Happiness Report** ranks 156 countries by how happy their citizens p
 - **Freedom to Make Life Choices**
 - **Generosity**
 - **Perceptions of Corruption**
+<img width="899" alt="Screenshot 2024-10-04 at 2 35 54 PM" src="https://github.com/user-attachments/assets/d433ce7a-f2d4-4082-bc57-35825af3957f">
+<img width="899" alt="Screenshot 2024-10-04 at 2 36 09 PM" src="https://github.com/user-attachments/assets/67d3ad85-be2b-4705-935a-b4ba07702949">
+<img width="899" alt="Screenshot 2024-10-04 at 2 36 24 PM" src="https://github.com/user-attachments/assets/a7e2a825-2c16-4842-ad7b-8cee046bd4c7">
+<img width="676" alt="Screenshot 2024-10-04 at 2 36 48 PM" src="https://github.com/user-attachments/assets/2d9772e6-6c46-4238-a868-460b570171ed">
+<img width="411" alt="Screenshot 2024-10-04 at 2 37 51 PM" src="https://github.com/user-attachments/assets/2fbc467d-b87b-47e0-8a46-749154f564e8">
+<img width="411" alt="Screenshot 2024-10-04 at 2 38 08 PM" src="https://github.com/user-attachments/assets/9afc8b86-a8f8-4c7b-808b-1c823765fde3">
+<img width="410" alt="Screenshot 2024-10-04 at 2 38 37 PM" src="https://github.com/user-attachments/assets/4e3e802b-a246-44fc-a171-6be1d9c28d50">
+<img width="601" alt="Screenshot 2024-10-04 at 2 38 51 PM" src="https://github.com/user-attachments/assets/9b682a37-9850-4396-8194-8ff50654e3ad">
+
 
 ---
 
@@ -104,6 +113,9 @@ The **New York City Airbnb Open Data** dataset includes information about Airbnb
 - **Neighborhood Group**: The borough of New York City where the listing is located.
 - **Minimum Nights**: The minimum number of nights required for booking.
 - **Availability**: The availability of the listing for booking over the next year.
+
+<img width="938" alt="Screenshot 2024-10-04 at 2 35 00 PM" src="https://github.com/user-attachments/assets/52476563-71fb-4f33-97c7-cbdeecf7eee7">
+<img width="938" alt="Screenshot 2024-10-04 at 2 35 13 PM" src="https://github.com/user-attachments/assets/77163220-fb94-4e60-9a6f-e7bdcaee09dd">
 
 ---
 
