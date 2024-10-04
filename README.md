@@ -118,8 +118,47 @@ The **New York City Airbnb Open Data** dataset includes information about Airbnb
 <img width="938" alt="Screenshot 2024-10-04 at 2 35 13 PM" src="https://github.com/user-attachments/assets/77163220-fb94-4e60-9a6f-e7bdcaee09dd">
 
 ---
-
 ## Conclusion
 
 This project demonstrates how **Sweetviz** can automate the process of data exploration, providing detailed and visually appealing reports. It allows viewers to quickly understand the distribution, relationships, and missing values in the data, making it a powerful tool for exploratory data analysis.
 
+
+
+## Assignment 3: Apache Beam Kafka Streaming Pipeline: Data Engineering Assignment
+
+## Prerequisites
+Before getting started, ensure that you have the following installed:
+- [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [Apache Kafka](https://kafka.apache.org/downloads) (Kafka 2.12 or later)
+- Python 3.7+
+- [Apache Beam](https://beam.apache.org/get-started/quickstart-py/)
+
+## Setting Up Kafka
+1. **Download and Extract Kafka**:
+   - Download Kafka from the [official site](https://kafka.apache.org/downloads).
+   - Extract the Kafka archive.
+2. **Start Zookeeper**:
+   Zookeeper is required for managing Kafka brokers. Run the following command in the Kafka installation directory:
+
+   ```bash
+   bin/zookeeper-server-start.sh config/zookeeper.properties
+   ```
+## Code Summary
+
+This pipeline reads messages from a Kafka input topic, processes each message by decoding the byte arrays into UTF-8 strings, and writes the processed messages to a Kafka output topic. It utilizes Apache Beam’s streaming mode for continuous data processing and Kafka for message ingestion and output. The pipeline is configured to run in real-time and handles both message consumption and production.
+
+colab code -> 
+
+
+## Key Concepts
+
+- **Composite Transform**: A combination of multiple transforms bundled together to perform complex data processing tasks in a modular way.
+- **Pipeline IO**: Input and output operations in a pipeline, allowing data to be read from or written to external systems like Kafka, databases, or file systems.
+- **Triggers**: Mechanisms that control when windowed results are emitted, based on event time, processing time, or data completeness.
+- **Windowing**: Organizes data into logical windows for aggregation in streaming pipelines, allowing efficient processing of unbounded data.
+- **ParDo**: A parallel processing transform that applies a user-defined function (DoFn) to each element in a PCollection.
+- **Streaming**: Continuous processing of unbounded data streams in real-time, rather than processing a finite dataset.
+
+## Conclusion
+
+This project demonstrates the use of Apache Beam with Kafka for real-time data streaming and processing. By leveraging key features such as composite transforms, windowing, and triggers, the pipeline efficiently handles unbounded data streams in a scalable and fault-tolerant manner. This setup provides a solid foundation for building advanced streaming applications capable of processing data in real-time, making it ideal for scenarios like log processing, IoT data ingestion, or event-driven architectures.
