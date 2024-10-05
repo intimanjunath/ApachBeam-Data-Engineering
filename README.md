@@ -60,13 +60,12 @@ The **World Happiness Report** ranks 156 countries by how happy their citizens p
 <img width="410" alt="Screenshot 2024-10-04 at 2 38 37 PM" src="https://github.com/user-attachments/assets/4e3e802b-a246-44fc-a171-6be1d9c28d50">
 <img width="601" alt="Screenshot 2024-10-04 at 2 38 51 PM" src="https://github.com/user-attachments/assets/9b682a37-9850-4396-8194-8ff50654e3ad">
 
-
----
-
 ## Conclusion
-
 This project demonstrates how advanced **D3.js** visualizations can enhance the exploratory data analysis process, providing interactive and visually appealing insights into the happiness levels of countries worldwide. It bridges the gap between traditional static plots and modern, dynamic data visualization techniques.
 
+YouTube link : https://youtu.be/b-Z4TDPjP8c
+
+---
 
 ## Assignment 2: NYC Airbnb Open Data - Auto EDA with Sweetviz
 b) Assignment 2 - Auto EDA with your favorite tool
@@ -117,13 +116,13 @@ The **New York City Airbnb Open Data** dataset includes information about Airbnb
 <img width="938" alt="Screenshot 2024-10-04 at 2 35 00 PM" src="https://github.com/user-attachments/assets/52476563-71fb-4f33-97c7-cbdeecf7eee7">
 <img width="938" alt="Screenshot 2024-10-04 at 2 35 13 PM" src="https://github.com/user-attachments/assets/77163220-fb94-4e60-9a6f-e7bdcaee09dd">
 
----
 ## Conclusion
 
 This project demonstrates how **Sweetviz** can automate the process of data exploration, providing detailed and visually appealing reports. It allows viewers to quickly understand the distribution, relationships, and missing values in the data, making it a powerful tool for exploratory data analysis.
 
+YouTube link : https://youtu.be/b-Z4TDPjP8c
 
-
+---
 ## Assignment 3: Apache Beam Kafka Streaming Pipeline: Data Engineering Assignment
 
 c) Assignment 3 - Apache beam features - demonstrate apache beam in a colab including composite transform, pipeline io, triggers, windowing ,pardo and streaming
@@ -164,3 +163,5 @@ colab code ->
 ## Conclusion
 
 This project demonstrates the use of Apache Beam with Kafka for real-time data streaming and processing. By leveraging key features such as composite transforms, windowing, and triggers, the pipeline efficiently handles unbounded data streams in a scalable and fault-tolerant manner. This setup provides a solid foundation for building advanced streaming applications capable of processing data in real-time, making it ideal for scenarios like log processing, IoT data ingestion, or event-driven architectures.
+
+YouTube link : https://youtu.be/b-Z4TDPjP8c
