@@ -69,7 +69,7 @@ This project demonstrates how advanced **D3.js** visualizations can enhance the 
 
 
 ## Assignment 2: NYC Airbnb Open Data - Auto EDA with Sweetviz
-
+b) Assignment 2 - Auto EDA with your favorite tool
 ### Overview
 
 This project explores the **New York City Airbnb Open Data** using the **Sweetviz** library for an automated Exploratory Data Analysis (AutoEDA). Sweetviz provides a highly visual and detailed report, making it easy to understand the dataset at a glance.
@@ -125,6 +125,8 @@ This project demonstrates how **Sweetviz** can automate the process of data expl
 
 
 ## Assignment 3: Apache Beam Kafka Streaming Pipeline: Data Engineering Assignment
+
+c) Assignment 3 - Apache beam features - demonstrate apache beam in a colab including composite transform, pipeline io, triggers, windowing ,pardo and streaming
 
 ## Prerequisites
 Before getting started, ensure that you have the following installed:
