@@ -64,7 +64,9 @@ The **World Happiness Report** ranks 156 countries by how happy their citizens p
 This project demonstrates how advanced **D3.js** visualizations can enhance the exploratory data analysis process, providing interactive and visually appealing insights into the happiness levels of countries worldwide. It bridges the gap between traditional static plots and modern, dynamic data visualization techniques.
 
 YouTube link : https://youtu.be/b-Z4TDPjP8c
+
 colab code : https://github.com/intimanjunath/ApachBeam-Data-Engineering/blob/main/EDA_D3JS.ipynb
+
 ---
 
 ## Assignment 2: NYC Airbnb Open Data - Auto EDA with Sweetviz
@@ -121,8 +123,11 @@ The **New York City Airbnb Open Data** dataset includes information about Airbnb
 This project demonstrates how **Sweetviz** can automate the process of data exploration, providing detailed and visually appealing reports. It allows viewers to quickly understand the distribution, relationships, and missing values in the data, making it a powerful tool for exploratory data analysis.
 
 YouTube link : https://youtu.be/b-Z4TDPjP8c
+
 Colab code : https://github.com/intimanjunath/ApachBeam-Data-Engineering/blob/main/sweetviz.ipynb 
-output Downloaded file : https://github.com/intimanjunath/ApachBeam-Data-Engineering/blob/main/NYC_Airbnb_EDA.html 
+
+output HTML file : https://github.com/intimanjunath/ApachBeam-Data-Engineering/blob/main/NYC_Airbnb_EDA.html 
+
 ---
 ## Assignment 3: Apache Beam Kafka Streaming Pipeline: Data Engineering Assignment
 
@@ -149,8 +154,6 @@ Before getting started, ensure that you have the following installed:
 
 This pipeline reads messages from a Kafka input topic, processes each message by decoding the byte arrays into UTF-8 strings, and writes the processed messages to a Kafka output topic. It utilizes Apache Beam’s streaming mode for continuous data processing and Kafka for message ingestion and output. The pipeline is configured to run in real-time and handles both message consumption and production.
 
-colab code -> 
-
 
 ## Key Concepts
 
@@ -166,5 +169,7 @@ colab code ->
 This project demonstrates the use of Apache Beam with Kafka for real-time data streaming and processing. By leveraging key features such as composite transforms, windowing, and triggers, the pipeline efficiently handles unbounded data streams in a scalable and fault-tolerant manner. This setup provides a solid foundation for building advanced streaming applications capable of processing data in real-time, making it ideal for scenarios like log processing, IoT data ingestion, or event-driven architectures.
 
 YouTube link : https://youtu.be/b-Z4TDPjP8c
+
 Colab code : https://github.com/intimanjunath/ApachBeam-Data-Engineering/blob/main/Apache_Beam_Kafka.ipynb
+
 Streaming code : https://github.com/intimanjunath/ApachBeam-Data-Engineering/blob/main/Kafka_streaming.py
