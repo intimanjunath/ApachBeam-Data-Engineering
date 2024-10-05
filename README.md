@@ -2,8 +2,8 @@
 
 ## Assignment 1: World Happiness Report 2019 - Advanced EDA with D3.js Visualizations
 
+a) Assignment 1 is to do a complete dataset EDA in colab (preferably using D3.js visualizations)
 ### Overview
-
 This project explores the **World Happiness Report 2019** dataset from Kaggle. It involves performing an advanced **Exploratory Data Analysis (EDA)**, utilizing both traditional Python libraries such as **Pandas**, **Matplotlib**, and **Seaborn**, as well as advanced **D3.js** visualizations for interactive insights. 
 
 The aim is to push the limits of interactive data visualization by integrating **D3.js** into Colab to create dynamic visualizations, such as bar charts, scatter plot matrices, and a world map that visualizes the distribution of happiness scores across countries.
